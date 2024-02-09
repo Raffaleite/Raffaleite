@@ -1,9 +1,9 @@
 # Hello friends :eyes:
-Hi my name is Rafael Leite, i am currently doing some codes for fun and college  :mortar_board:
+Hello my name is Rafael Leite, i am currently studying all kids of technology for fun and also college :)  :mortar_board:
 
 
 # My college :computer:
-  Computer Science - 2 semester in PUC Minas Poços de Caldas
+  Computer Science - 5th semester in PUC Minas Poços de Caldas
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raffaleite&show_icons=true&theme=radical)
   
