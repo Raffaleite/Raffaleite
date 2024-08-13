@@ -3,7 +3,7 @@ Hello my name is Rafael Leite, i am currently studying all kids of technology fo
 
 
 # My college :computer:
-  Computer Science - 5th semester in PUC Minas Poços de Caldas
+  Computer Science - 6th semester in PUC Minas Poços de Caldas
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raffaleite&show_icons=true&theme=radical)
   
