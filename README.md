@@ -50,9 +50,4 @@ Hello my name is Rafael Leite, i am currently studying all kids of technology fo
 
  ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Raffaleite/Raffaleite/output/snake.svg" alt="Snake animation" />
-
-###
- 
