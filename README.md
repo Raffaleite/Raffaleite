@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## 👋 About Me
 
 Hey there! I'm **Rafael Leite**, a **Computer Science bachelor** from **PUC Minas Poços de Caldas**, passionate about technology and always exploring something new — whether for fun or professionally. 😄
